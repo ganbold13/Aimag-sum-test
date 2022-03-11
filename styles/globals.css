@@ -5,3 +5,7 @@
 * {
   @apply transition ease-in-out;
 }
+
+.test button {
+  @apply rounded-lg bg-blue-400 hover:bg-blue-500 px-4 py-2 text-white
+}
